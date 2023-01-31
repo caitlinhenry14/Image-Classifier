@@ -1,2 +1,2 @@
-# Image-Classifier
-Simple image classifier with a single-layer neural network
+# Image Classifier
+Classifying images from the CIFAR-10 dataset with a simple neural network in PyTorch.
